@@ -1,0 +1,113 @@
+[[Popt]]
+arch = "i686"
+git-tree-sha1 = "2fb2ba7d48d2373262bbc86284460cfd04793b35"
+libc = "musl"
+os = "linux"
+
+    [[Popt.download]]
+    sha256 = "8b4b8cda503c3a9ca5c0754f983467a4204fc2c68f180376ee15b74d67020d7e"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.i686-linux-musl.tar.gz"
+[[Popt]]
+arch = "aarch64"
+git-tree-sha1 = "1464fe6a55caf6f847b59a5f601eebd7180c8d49"
+libc = "musl"
+os = "linux"
+
+    [[Popt.download]]
+    sha256 = "4ffa721457989f9b823e9c9bb3adedf2bd9624e239fa91a7d1016b21ed42233a"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.aarch64-linux-musl.tar.gz"
+[[Popt]]
+arch = "i686"
+git-tree-sha1 = "7d298716a44634b523d2323de860bc3ef35de9db"
+os = "windows"
+
+    [[Popt.download]]
+    sha256 = "187979e6ae25e043dc32381712566fbabe64d29b211e3a65ac1b9c5c06ecb9e5"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.i686-w64-mingw32.tar.gz"
+[[Popt]]
+arch = "x86_64"
+git-tree-sha1 = "ef811a8d5e1a74d091ef959c3ba5480f721a51a7"
+os = "windows"
+
+    [[Popt.download]]
+    sha256 = "070666d98af95bc196451b716919c17df0252287ef1ddc74ad454351c0a6d5af"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.x86_64-w64-mingw32.tar.gz"
+[[Popt]]
+arch = "armv7l"
+git-tree-sha1 = "5384fbf9721db57f15a888bf0feebeb0d9cb9736"
+libc = "glibc"
+os = "linux"
+
+    [[Popt.download]]
+    sha256 = "95012c934520409a1b2cd71bb124894f7cca557209c1217fdfdaf3d81bc6fc51"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.armv7l-linux-gnueabihf.tar.gz"
+[[Popt]]
+arch = "armv7l"
+git-tree-sha1 = "96c1808584873f8cc3208fb8464bdeeff32e1951"
+libc = "musl"
+os = "linux"
+
+    [[Popt.download]]
+    sha256 = "b9a4bfa544363d9fb73bac5f31351d48b6252b29995dc1ed6b807728a9b231ad"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.armv7l-linux-musleabihf.tar.gz"
+[[Popt]]
+arch = "i686"
+git-tree-sha1 = "d58060ea353417a4365e5cbd3ed76b9808e2386e"
+libc = "glibc"
+os = "linux"
+
+    [[Popt.download]]
+    sha256 = "6cde9680e88dd3620c7582973c265142f795a6f1cea4678f4d4aee166128c3df"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.i686-linux-gnu.tar.gz"
+[[Popt]]
+arch = "x86_64"
+git-tree-sha1 = "17cecb93388268067937ad92442d01a38312916a"
+libc = "glibc"
+os = "linux"
+
+    [[Popt.download]]
+    sha256 = "ac8db2d11db68109ad28a05e2f8ea1096a0284e5e3904886d5c4d0c23465e545"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.x86_64-linux-gnu.tar.gz"
+[[Popt]]
+arch = "powerpc64le"
+git-tree-sha1 = "027a177bd2211fe924a8da490ce11699b00168de"
+libc = "glibc"
+os = "linux"
+
+    [[Popt.download]]
+    sha256 = "9fb9ef78293ebff5f6bd110881657568b7e2824c2d0c0a7061ad05d4c1b0f4de"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.powerpc64le-linux-gnu.tar.gz"
+[[Popt]]
+arch = "x86_64"
+git-tree-sha1 = "1862b219ebeb7c5f5a2bd04c3cc2fcb9aeaa6a71"
+os = "macos"
+
+    [[Popt.download]]
+    sha256 = "0b081fb78319cc2e97a44d06f3c437484395c83674589a0bb7bdd379d1a36ca1"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.x86_64-apple-darwin14.tar.gz"
+[[Popt]]
+arch = "aarch64"
+git-tree-sha1 = "b78633f2b9f61b6d253a446268cf05491bb06a6e"
+libc = "glibc"
+os = "linux"
+
+    [[Popt.download]]
+    sha256 = "6403ecd65c2cb15ff3d8f4ca54f22d10c66b04196919cae68137e1f5f42aa93e"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.aarch64-linux-gnu.tar.gz"
+[[Popt]]
+arch = "x86_64"
+git-tree-sha1 = "675f5710ce7bc5b565ec1498302154cb059d7adf"
+os = "freebsd"
+
+    [[Popt.download]]
+    sha256 = "853649ac0da924eb3665db6ffc37dc6ebafaf24f638cf05776b3705b1c466023"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Popt]]
+arch = "x86_64"
+git-tree-sha1 = "fcb4b6c2a2b5a87c74f808b4557b6e8af1b34d2d"
+libc = "musl"
+os = "linux"
+
+    [[Popt.download]]
+    sha256 = "abc48fc1e2db45276c00a5ea20bd26893ae3fc43528af09909761d33646438da"
+    url = "https://github.com/JuliaBinaryWrappers/Popt_jll.jl/releases/download/Popt-v1.16.0+0/Popt.v1.16.0.x86_64-linux-musl.tar.gz"

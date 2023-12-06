@@ -1,11 +1,15 @@
 name = "Popt_jll"
 uuid = "e80236cf-ab1d-5f5d-8534-1d1285fe49e8"
-version = "1.16.0+0"
+version = "1.19.0+0"
 
 [deps]
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Libiconv_jll = "94ce4f54-9a6c-5748-9c1c-f9c7231a4531"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-julia = "1.0"
+JLLWrappers = "1.2.0"
+julia = "1.6"
+Libdl = "1"
+Artifacts = "1"
